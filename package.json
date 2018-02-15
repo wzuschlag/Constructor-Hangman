@@ -20,5 +20,6 @@
   "dependencies": {
     "inquirer": "^5.1.0",
     "require": "^2.4.20"
-  }
+  },
+  "devDependencies": {}
 }
